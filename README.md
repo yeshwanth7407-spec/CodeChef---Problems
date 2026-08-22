@@ -1,30 +1,13 @@
-\# CodeChef Problems
-
-
+# CodeChef Problems
 
 My daily CodeChef problem-solving journey.
 
+## Progress
 
+- Problems Solved: 1
 
-\## Progress
-
-
-
-\- Problems Solved: 0
-
-\- Current Streak: 0 days
-
-\- Longest Streak: 0 days
-
-\- Highest Rating Solved: -
-
-
-
-\## Problems
-
-
+## Problems
 
 | Problem | Rating | Topic | Date |
-
 |---------|--------|-------|------|
-
+| [MISSP - Chef and Dolls](./MISSP.cpp) | 1012 | Bitwise XOR / Hash Maps / Arrays | 2026-08-22 |
