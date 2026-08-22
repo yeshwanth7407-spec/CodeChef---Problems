@@ -33,7 +33,7 @@ int main() {
         for(int i=0;i<n;i++){
             int x;
             cin>>x;
-            ans ^= x;
+            ans ^= x; // xor of all the elements without storing them .
         }
         cout<<ans<<endl;
     }
