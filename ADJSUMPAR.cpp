@@ -2,7 +2,7 @@
 ============================================================
 CodeChef Problem : ADJSUMPAR
 Title            : Adjacent Sum Parity
-Rating           : 1004
+Rating           : 1013
 Topics           : Arrays / Bit Manipulation / Logic
 Date Solved      : 2026-08-23
 
