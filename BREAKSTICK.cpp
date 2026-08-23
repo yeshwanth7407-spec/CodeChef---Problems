@@ -2,7 +2,7 @@
 ============================================================
 CodeChef Problem : BREAKSTICK
 Title            : Break the Stick
-Rating           : 1032
+Rating           : 1026
 Topics           : Math / Parity / Logic
 Date Solved      : 2026-08-23
 
