@@ -4,7 +4,7 @@ My daily CodeChef problem-solving journey.
 
 ## Progress
 
-- Problems Solved: 6
+- Problems Solved: 7
 
 ## Problems
 
@@ -16,3 +16,4 @@ My daily CodeChef problem-solving journey.
 | [CNDY - Candies](./CNDY.cpp) | 1018 | Arrays / Hash Maps / Counting | 2026-08-23 |
 | [CODETOWN - Reach Codetown](./CODETOWN.cpp) | 1022 | Strings / Basic Implementation | 2026-08-23 |
 | [MISSP - Chef and Dolls](./MISSP.cpp) | 1012 | Bitwise XOR / Hash Maps / Arrays | 2026-08-22 |
+| [WOLFDOWN - Wolf Down](./WOLFDOWN.cpp) | 1025 | Strings / Basic Implementation / Greedy | 2026-08-23 |
