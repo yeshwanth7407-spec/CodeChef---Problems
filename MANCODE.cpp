@@ -40,8 +40,8 @@ int main() {
 	while(t--){
 	    int n;
 	    cin>>n;
-	    int min_val = (n+1)/3;
-	    int max_val = (n+1)/2;
+	    int min_val = ceil((double)n/3);
+	    int max_val = ceil((double)n/2);
 	    cout<<max_val<<" "<<min_val<<endl;
 	}
 
