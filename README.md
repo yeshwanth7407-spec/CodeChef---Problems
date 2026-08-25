@@ -4,7 +4,7 @@ My daily CodeChef problem-solving journey.
 
 ## Progress
 
-- Problems Solved: 14
+- Problems Solved: 15
 
 ## Problems
 
@@ -21,6 +21,7 @@ My daily CodeChef problem-solving journey.
 | [ENCMSG - Encoding Message](./ENCMSG.cpp) | 1045 | Strings / Implementation / Cipher | 2026-08-26 |
 | [MISSP - Chef and Dolls](./MISSP.cpp) | 1012 | Bitwise XOR / Hash Maps / Arrays | 2026-08-22 |
 | [MUFFINS3 - Packaging Cupcakes](./MUFFINS3.cpp) | 1030 | Math / Basic Programming / Greedy | 2026-08-23 |
+| [SLOWSTART - Slow Start](./SLOWSTART.cpp) | 1055 | Math / Basic Programming / Conditionals | 2026-08-26 |
 | [SUMTOZERO - Sum to Zero](./SUMTOZERO.cpp) | 1023 | Constructive / Math / Arrays | 2026-08-23 |
 | [URCALC - Program Your Own CALCULATOR](./URCALC.cpp) | 1048 | Basic Programming / Implementation / Conditionals | 2026-08-26 |
 | [WOLFDOWN - Wolf Down](./WOLFDOWN.cpp) | 1025 | Strings / Basic Implementation / Greedy | 2026-08-23 |
