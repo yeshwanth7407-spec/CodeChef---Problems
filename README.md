@@ -4,7 +4,7 @@ My daily CodeChef problem-solving journey.
 
 ## Progress
 
-- Problems Solved: 12
+- Problems Solved: 13
 
 ## Problems
 
@@ -21,4 +21,5 @@ My daily CodeChef problem-solving journey.
 | [MISSP - Chef and Dolls](./MISSP.cpp) | 1012 | Bitwise XOR / Hash Maps / Arrays | 2026-08-22 |
 | [MUFFINS3 - Packaging Cupcakes](./MUFFINS3.cpp) | 1030 | Math / Basic Programming / Greedy | 2026-08-23 |
 | [SUMTOZERO - Sum to Zero](./SUMTOZERO.cpp) | 1023 | Constructive / Math / Arrays | 2026-08-23 |
+| [URCALC - Program Your Own CALCULATOR](./URCALC.cpp) | 1048 | Basic Programming / Implementation / Conditionals | 2026-08-26 |
 | [WOLFDOWN - Wolf Down](./WOLFDOWN.cpp) | 1025 | Strings / Basic Implementation / Greedy | 2026-08-23 |
