@@ -27,6 +27,6 @@ My daily CodeChef problem-solving journey.
 | [MUFFINS3 - Packaging Cupcakes](./MUFFINS3.cpp) | 1030 | Math / Basic Programming / Greedy | 2026-08-23 |
 | [SLOWSTART - Slow Start](./SLOWSTART.cpp) | 1055 | Math / Basic Programming / Conditionals | 2026-08-26 |
 | [SUMTOZERO - Sum to Zero](./SUMTOZERO.cpp) | 1023 | Constructive / Math / Arrays | 2026-08-23 |
-| [TABLET - Buying New Tablet](./TABLET.cpp) | 1072 | Basic Programming / Linear Search / Greedy | 2026-08-26 |
+| [TABLET - Buying New Tablet](./TABLET.cpp) | 1037 | Basic Programming / Linear Search / Greedy | 2026-08-26 |
 | [URCALC - Program Your Own CALCULATOR](./URCALC.cpp) | 1048 | Basic Programming / Implementation / Conditionals | 2026-08-26 |
 | [WOLFDOWN - Wolf Down](./WOLFDOWN.cpp) | 1025 | Strings / Basic Implementation / Greedy | 2026-08-23 |
