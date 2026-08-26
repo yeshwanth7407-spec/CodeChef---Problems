@@ -4,7 +4,7 @@ My daily CodeChef problem-solving journey.
 
 ## Progress
 
-- Problems Solved: 22
+- Problems Solved: 23
 
 ## Problems
 
@@ -12,6 +12,7 @@ My daily CodeChef problem-solving journey.
 |---------|--------|-------|------|
 | [ADD12GAME - Add 1 or 2 Game](./ADD12GAME.cpp) | 1052 | Game Theory / Math | 2026-08-26 |
 | [ADJSUMPAR - Adjacent Sum Parity](./ADJSUMPAR.cpp) | 1013 | Arrays / Bit Manipulation / Logic | 2026-08-23 |
+| [APPLESORANGES - Apples and Oranges](./APPLESORANGES.cpp) | 1040 | Number Theory / Math / Euclidean Algorithm | 2026-08-27 |
 | [ASM120 - Chef and Stones / Stone Game](./ASM120.cpp) | 1020 | Math / Number Theory / Euclidean Algorithm / GCD | 2026-08-23 |
 | [BINARYSUM - Binary Sum](./BINARYSUM.cpp) | 1015 | Math / Logic / Constructive | 2026-08-23 |
 | [BREAKSTICK - Break the Stick](./BREAKSTICK.cpp) | 1026 | Math / Parity / Logic | 2026-08-23 |
