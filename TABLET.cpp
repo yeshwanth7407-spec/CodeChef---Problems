@@ -2,7 +2,7 @@
 ============================================================
 CodeChef Problem : TABLET
 Title            : Buying New Tablet
-Rating           : 1072
+Rating           : 1037
 Topics           : Basic Programming / Linear Search / Greedy
 Date Solved      : 2026-08-26
 
