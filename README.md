@@ -4,7 +4,7 @@ My daily CodeChef problem-solving journey.
 
 ## Progress
 
-- Problems Solved: 26
+- Problems Solved: 27
 
 ## Problems
 
@@ -24,6 +24,7 @@ My daily CodeChef problem-solving journey.
 | [ELECTIONS - Elections in Chefland](./ELECTIONS.cpp) | 1060 | Basic Programming / Conditionals | 2026-08-26 |
 | [ENCMSG - Encoding Message](./ENCMSG.cpp) | 1045 | Strings / Implementation / Cipher | 2026-08-26 |
 | [EVENTUAL - Even-tual Reduction](./EVENTUAL.cpp) | 1040 | Strings / Hashing / Frequency Map / Parity | 2026-08-27 |
+| [JOINSTATES - Join States](./JOINSTATES.cpp) | 1043 | Greedy / Arrays / Prefix Sums | 2026-08-27 |
 | [LARGSMALL - Larger Smaller](./LARGSMALL.cpp) | 1035 | Arrays / Math / Implementation | 2026-08-26 |
 | [MANCODE - Man of the Match / Man Code](./MANCODE.cpp) | 1058 | Math / Greedy / Constructive | 2026-08-26 |
 | [MISSP - Chef and Dolls](./MISSP.cpp) | 1012 | Bitwise XOR / Hash Maps / Arrays | 2026-08-22 |
