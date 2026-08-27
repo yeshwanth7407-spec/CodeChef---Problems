@@ -4,7 +4,7 @@ My daily CodeChef problem-solving journey.
 
 ## Progress
 
-- Problems Solved: 25
+- Problems Solved: 26
 
 ## Problems
 
@@ -35,3 +35,4 @@ My daily CodeChef problem-solving journey.
 | [TABLET - Buying New Tablet](./TABLET.cpp) | 1037 | Basic Programming / Linear Search / Greedy | 2026-08-26 |
 | [URCALC - Program Your Own CALCULATOR](./URCALC.cpp) | 1048 | Basic Programming / Implementation / Conditionals | 2026-08-26 |
 | [WOLFDOWN - Wolf Down](./WOLFDOWN.cpp) | 1025 | Strings / Basic Implementation / Greedy | 2026-08-23 |
+| [ZEROSTRING - Zero String](./ZEROSTRING.cpp) | 1042 | Strings / Greedy / Math | 2026-08-27 |
