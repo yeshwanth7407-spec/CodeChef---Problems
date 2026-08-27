@@ -4,7 +4,7 @@ My daily CodeChef problem-solving journey.
 
 ## Progress
 
-- Problems Solved: 23
+- Problems Solved: 24
 
 ## Problems
 
@@ -27,6 +27,7 @@ My daily CodeChef problem-solving journey.
 | [MANCODE - Man of the Match / Man Code](./MANCODE.cpp) | 1058 | Math / Greedy / Constructive | 2026-08-26 |
 | [MISSP - Chef and Dolls](./MISSP.cpp) | 1012 | Bitwise XOR / Hash Maps / Arrays | 2026-08-22 |
 | [MUFFINS3 - Packaging Cupcakes](./MUFFINS3.cpp) | 1030 | Math / Basic Programming / Greedy | 2026-08-23 |
+| [NOODDSUM - No Odd Sum](./NOODDSUM.cpp) | 1041 | Math / Greedy / Prefix Sums / Parity | 2026-08-27 |
 | [REMOVECARDS - Card Removal](./REMOVECARDS.cpp) | 1039 | Hashing / Arrays / Greedy / Frequency Map | 2026-08-26 |
 | [SLOWSTART - Slow Start](./SLOWSTART.cpp) | 1055 | Math / Basic Programming / Conditionals | 2026-08-26 |
 | [SUMTOZERO - Sum to Zero](./SUMTOZERO.cpp) | 1023 | Constructive / Math / Arrays | 2026-08-23 |
